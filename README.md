@@ -1,0 +1,1 @@
+The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones. It starts with 0 and 1, and then each subsequent number is the sum of the two before it. So it goes like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, and so on.
